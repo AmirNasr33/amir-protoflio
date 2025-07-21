@@ -32,7 +32,7 @@ export const HeroSection = () => {
                 View My Work
               </a>
               <a 
-                href="https://drive.google.com/file/d/1tPNoHsJhMxfei-UOonz1xfWioChb0MPL/view?usp=drive_link"
+                href="https://drive.google.com/drive/my-drive"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full bg-transparent border-2 border-primary text-primary font-medium transition-all duration-300 hover:bg-primary hover:text-primary-foreground hover:shadow-[0_0_10px_rgba(139,92,246,0.5)] hover:scale-105 active:scale-95"
